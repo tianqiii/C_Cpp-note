@@ -1,0 +1,35 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "Clang",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"database-info" : null,
+	"dir-cur-bld" : "/home/bao-nini/Documents/bao/C_dev/HelloWorld/build",
+	"dir-cur-src" : "/home/bao-nini/Documents/bao/C_dev/HelloWorld",
+	"dir-top-bld" : "/home/bao-nini/Documents/bao/C_dev/HelloWorld/build",
+	"dir-top-src" : "/home/bao-nini/Documents/bao/C_dev/HelloWorld",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : 
+	[
+		"/home/bao-nini/Documents/bao/C_dev/HelloWorld/Header Files"
+	],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "/home/bao-nini/Documents/bao/C_dev/HelloWorld/build/CMakeFiles/HelloWorld.dir",
+	"sources" : 
+	{
+		"CMakeFiles/HelloWorld.dir/src/Log.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/bao-nini/Documents/bao/C_dev/HelloWorld/src/Log.cpp"
+		},
+		"CMakeFiles/HelloWorld.dir/src/Main.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/bao-nini/Documents/bao/C_dev/HelloWorld/src/Main.cpp"
+		}
+	}
+}

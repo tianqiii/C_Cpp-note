@@ -1,0 +1,10 @@
+# ninja log v6
+1	39	1759392211211436548	CMakeFiles/HelloWorld.dir/src/Log.cpp.o.ddi	d38727de30426b72
+0	6	1759392431318983601	CMakeFiles/HelloWorld.dir/src/Main.cpp.o.modmap	d935bcb8102e704f
+1	39	1759392211210230348	CMakeFiles/HelloWorld.dir/src/Main.cpp.o.ddi	640f34de90bdb434
+0	6	1759392431318983601	/home/bao-nini/Documents/bao/C_dev/HelloWorld/build/CMakeFiles/HelloWorld.dir/CXXModules.json	d935bcb8102e704f
+0	6	1759392431318983601	CMakeFiles/HelloWorld.dir/CXX.dd	d935bcb8102e704f
+0	6	1759392431318983601	CMakeFiles/HelloWorld.dir/src/Log.cpp.o.modmap	d935bcb8102e704f
+45	604	1759392211255630270	CMakeFiles/HelloWorld.dir/src/Log.cpp.o	6d680be1bc7ec571
+45	609	1759392211255316828	CMakeFiles/HelloWorld.dir/src/Main.cpp.o	433b0a819fd47c18
+590	636	1758518801386227343	bin/HelloWorld	ce89c695501aa6fa

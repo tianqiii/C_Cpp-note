@@ -1,0 +1,9 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "CMakeFiles/HelloWorld.dir/src/Log.cpp.o"
+    }
+  ],
+  "version": 1
+}

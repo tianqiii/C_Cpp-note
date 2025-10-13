@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/bao-nini/Documents/bao/C_dev/HelloWorld/build",
+  "command": "/usr/bin/clang++ -I\"/home/bao-nini/Documents/bao/C_dev/HelloWorld/Header Files\" -g -std=c++23 -Wall @CMakeFiles/HelloWorld.dir/src/Main.cpp.o.modmap -o CMakeFiles/HelloWorld.dir/src/Main.cpp.o -c /home/bao-nini/Documents/bao/C_dev/HelloWorld/src/Main.cpp",
+  "file": "/home/bao-nini/Documents/bao/C_dev/HelloWorld/src/Main.cpp",
+  "output": "CMakeFiles/HelloWorld.dir/src/Main.cpp.o"
+},
+{
+  "directory": "/home/bao-nini/Documents/bao/C_dev/HelloWorld/build",
+  "command": "/usr/bin/clang++ -I\"/home/bao-nini/Documents/bao/C_dev/HelloWorld/Header Files\" -g -std=c++23 -Wall @CMakeFiles/HelloWorld.dir/src/Log.cpp.o.modmap -o CMakeFiles/HelloWorld.dir/src/Log.cpp.o -c /home/bao-nini/Documents/bao/C_dev/HelloWorld/src/Log.cpp",
+  "file": "/home/bao-nini/Documents/bao/C_dev/HelloWorld/src/Log.cpp",
+  "output": "CMakeFiles/HelloWorld.dir/src/Log.cpp.o"
+}
+]
