@@ -29,18 +29,19 @@ void PrintName(const std::string &name)
 
 int main()
 {
-    std::string name = "z tq";
+    std::string *name = new std::string("z tq");
+    // std::string  name = "z tq";
     // const char *name = "z tq";
     // 也可以用name[]
 
 #if STRING_VIEW
-    std::string_view familyName(name.c_str(), 1);
-    std::string_view givenName(name.c_str() + 2, 2);
+    std::string_view familyName((*name).c_str(), 1);
+    std::string_view givenName((*name).c_str() + 2, 2);
 #else
-    std::string familyName = name.substr(0, 1);
-    std::string givenName = name.substr(2, 2);
+    std::string familyName = (*name).substr(0, 1);
+    std::string givenName = (*name).substr(2, 2);
 #endif
-    PrintName(name);
+    PrintName(*name);
     PrintName(familyName);
     PrintName(givenName);
 

@@ -6,7 +6,7 @@ include_directories("Header Files") # 包含头文件目录
 # set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -Wall -Werror -std=c++14")
 
 #开启所有警告和错误
-add_compile_options(-Wall) #-Werror) 
+add_compile_options(-Wall) #-Werror)
 
 set(CMAKE_CXX_STANDARD 23)
 set(CMAKE_CXX_STANDARD_REQUIRED OFF) # 不严格遵循c++标准
